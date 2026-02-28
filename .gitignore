@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# next.js build
+.next/
+out/
+
+# env files
+.env
+.env.local
+.env.production
+
+# debug
+npm-debug.log*
+
+# misc
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+
+# claude
+.claude/
+
+# reference files (not part of the site)
+v0 Components/
+Images/
+Our Team.docx
