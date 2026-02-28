@@ -94,6 +94,7 @@ Last updated: February 28, 2026
 - **Blog simplification**: Removed filter tabs (All/Articles/Videos/Research); renamed heading to "Articles"; changed label to "From the Practice"
 - **YouTube embed**: Fixed from broken playlist embed to direct video embed (ID: LlD84yXxdGI)
 - **PANS/PANDAS FAQ**: Removed "Many patients show significant improvement within days of treatment" sentence; simplified "how many treatments" answer
+- **Treatments page**: Removed condition cards (Alzheimer's, Longevity, Autoimmune, Post-Infectious) from treatment hub; only treatment cards remain (TPE, Cytoreduction, Lipid Apheresis, Super Albumin)
 
 ---
 

@@ -881,23 +881,17 @@ The treatments list in `lib/treatments.ts` drives the Treatments Overview page c
 | Title | Slug | Tags | Coming Soon |
 |-------|------|------|-------------|
 | Therapeutic Plasma Exchange | therapeutic-plasma-exchange | Longevity, Alzheimer's, Long COVID, Autoimmune, PANDAS | No |
-| Longevity Optimization | longevity-optimization | Anti-Aging, Epigenetic Clocks, Healthspan | No |
-| Alzheimer's & Cognitive Decline | alzheimers-cognitive-decline | AMBAR Trial, Cognitive Health, Neurodegeneration | No |
-| Autoimmune Disorders | autoimmune-disorders | Autoimmune, Myasthenia Gravis, Guillain-Barre | No |
-| Post-Infectious Syndromes | post-infectious-syndromes | Long COVID, Post-Acute, Immunomodulation | No |
 | Cytoreduction & Stem Cell Collections | cytoreduction-stem-cell | Hematology, Transplant Support, Stem Cells | No |
 | Lipid Apheresis | lipid-apheresis | Cardiovascular, Cholesterol, Lp(a) | Yes |
 | Super Albumin | super-albumin | Longevity, Anti-Inflammatory, Antioxidant | Yes |
 
+Note: Condition-specific cards (Longevity Optimization, Alzheimer's & Cognitive Decline, Autoimmune Disorders, Post-Infectious Syndromes) were removed from this data array. Those pages still exist and are linked from the TPE page and navigation dropdown, but they no longer appear as cards on the Treatments Overview page.
+
 ### Treatment Descriptions (from lib/treatments.ts)
 1. **Therapeutic Plasma Exchange**: Our signature treatment removes aging plasma proteins, pro-inflammatory factors, and disease-associated molecules — replacing them with purified albumin. Clinically shown to reduce biological age and slow Alzheimer's progression.
-2. **Longevity Optimization**: TPE protocols shown to reduce biological age by 1-3 years, measured by validated epigenetic clocks. Published in GeroScience and validated by the Buck Institute for Research on Aging.
-3. **Alzheimer's & Cognitive Decline**: Evidence-based plasma exchange with albumin replacement, validated in the landmark AMBAR trial to slow cognitive and functional decline by 52-71% — with a vastly superior safety profile to monoclonal antibodies.
-4. **Autoimmune Disorders**: Comprehensive therapeutic apheresis for autoimmune and inflammatory conditions, removing the circulating antibodies and mediators that drive disease.
-5. **Post-Infectious Syndromes**: Immunomodulatory therapeutic plasma exchange protocols for Long COVID and other post-acute infectious syndromes, clearing persistent inflammatory factors that conventional treatments cannot address.
-6. **Cytoreduction & Stem Cell Collections**: Specialized apheresis for white blood cell reduction and stem cell harvesting by board-certified specialists using advanced apheresis technology.
-7. **Lipid Apheresis**: Targeted removal of LDL cholesterol and lipoprotein(a) beyond what medications alone can achieve. Ideal for familial hypercholesterolemia and elevated cardiovascular risk.
-8. **Super Albumin**: A proprietary IV infusion therapy delivering enhanced albumin enriched with vitamins, antioxidants, and therapeutic cofactors — designed as a standalone treatment or bridge therapy between TPE sessions.
+2. **Cytoreduction & Stem Cell Collections**: Specialized apheresis for white blood cell reduction and stem cell harvesting by board-certified specialists using advanced apheresis technology.
+3. **Lipid Apheresis**: Targeted removal of LDL cholesterol and lipoprotein(a) beyond what medications alone can achieve. Ideal for familial hypercholesterolemia and elevated cardiovascular risk.
+4. **Super Albumin**: A proprietary IV infusion therapy delivering enhanced albumin enriched with vitamins, antioxidants, and therapeutic cofactors — designed as a standalone treatment or bridge therapy between TPE sessions.
 
 ---
 

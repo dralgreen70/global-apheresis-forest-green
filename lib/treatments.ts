@@ -15,34 +15,6 @@ export const treatments: Treatment[] = [
     tags: ["Longevity", "Alzheimer\u2019s", "Long COVID", "Autoimmune", "PANDAS"],
   },
   {
-    title: "Longevity Optimization",
-    slug: "longevity-optimization",
-    description:
-      "TPE protocols shown to reduce biological age by 1–3 years, measured by validated epigenetic clocks. Published in GeroScience and validated by the Buck Institute for Research on Aging.",
-    tags: ["Anti-Aging", "Epigenetic Clocks", "Healthspan"],
-  },
-  {
-    title: "Alzheimer\u2019s & Cognitive Decline",
-    slug: "alzheimers-cognitive-decline",
-    description:
-      "Evidence-based plasma exchange with albumin replacement, validated in the landmark AMBAR trial to slow cognitive and functional decline by 52–71% — with a vastly superior safety profile to monoclonal antibodies.",
-    tags: ["AMBAR Trial", "Cognitive Health", "Neurodegeneration"],
-  },
-  {
-    title: "Autoimmune Disorders",
-    slug: "autoimmune-disorders",
-    description:
-      "Comprehensive therapeutic apheresis for autoimmune and inflammatory conditions, removing the circulating antibodies and mediators that drive disease.",
-    tags: ["Autoimmune", "Myasthenia Gravis", "Guillain-Barré"],
-  },
-  {
-    title: "Post-Infectious Syndromes",
-    slug: "post-infectious-syndromes",
-    description:
-      "Immunomodulatory therapeutic plasma exchange protocols for Long COVID and other post-acute infectious syndromes, clearing persistent inflammatory factors that conventional treatments cannot address.",
-    tags: ["Long COVID", "Post-Acute", "Immunomodulation"],
-  },
-  {
     title: "Cytoreduction & Stem Cell Collections",
     slug: "cytoreduction-stem-cell",
     description:
